@@ -1,0 +1,10 @@
+1,Lahore,Islambad,13:00,17:00,4h,200km,1500
+2,Lahore,Faisalabad,12:00,13:00,1h,100km,1000
+3,Lahore,Mandi Bahauddin,2:00,5:00,3h,200km,1000
+4,Lahore,Gujranwala,15:00,16:00,1h,100km,500
+5,Islambad,Karachi,8:00,20:00,12h,1000km,5000
+6,Islambad,Multan,9:00,14:00,5h,300km,2000
+7,Islambad,Jhelum,10:00,12:00,2h,100km,1500
+8,Islambad,Peshawer,11:00,15:00,4h,200km,2000
+9,Gujranwala,Gujrat,12:00,13:00,1h,70km,500
+10,Gujranwala,Mandi Bahauddin,12:00,14:00,2h,100km,500100,Lahore,Sarai Alamgir,14:00,17:00,3,300,800
